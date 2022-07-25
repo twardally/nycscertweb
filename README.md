@@ -1,5 +1,5 @@
 # nycscertweb
-# Tanya Wardally
+# Tanya Wardally Boys and Girls HS
 ![bghs logo](https://user-images.githubusercontent.com/99760212/180849730-185e3236-71c0-4329-85db-b64aa51b2042.jpg)
 
 ---
