@@ -1,5 +1,7 @@
 # nycscertweb
 # Tanya Wardally
+![bghs logo](https://user-images.githubusercontent.com/99760212/180849730-185e3236-71c0-4329-85db-b64aa51b2042.jpg)
+
 ---
 ## Summer 2022 PROGRAMMING COURSE
 
@@ -8,8 +10,10 @@
 ---
 ## Summer 2022 DATA STRUCTURES COURSE
 
-[DATA STRUCTURES](https://github.com/hunter-teacher-cert/cohort-3-summer-work-twardally/commit/912c7eec64a3784b3e7c608e7d6768fcb4e93082#diff-07e0ecbdf1a039d0705cecb2174b2d3f226cd7559f8f108f34469c3c6ef0c0d0)
+[DATA STRUCTURES](https://github.com/hunter-teacher-cert/cohort-3-summer-work-twardally/commit/912c7eec64a3784b3e7c608e7d6768fcb4e93082#diff-07e0ecbdf1a039d0705cecb2174b2d3f226cd7559f8f108f34469c3c6ef0c0d0)![bghs logo](https://user-images.githubusercontent.com/99760212/180849664-dd91d8f0-4e33-4458-94b5-66c6b9cef3ba.jpg)
+
 
 ---
 ## Summer 2022 METHODS COURSE
 [METHODS](https://github.com/hunter-teacher-cert/cohort-3-summer-work-twardally/blob/master/methods/LinearSearch.java)
+
